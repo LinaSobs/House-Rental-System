@@ -1,0 +1,90 @@
+﻿@model HouseRentalSystem.Models.RentalApplication
+
+@{
+    ViewData["Title"] = "Payment Details";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="card-title mb-0">Payment Details</h2>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-success">
+                        <h5>Congratulations! Your application has been approved.</h5>
+                        <p class="mb-0">Complete your payment to secure the rental.</p>
+                    </div>
+
+                    <!-- Property Details -->
+                    <div class="row mb-4">
+                        <div class="col-12">
+                            <h5>Property Information</h5>
+                            <dl class="row">
+                                <dt class="col-sm-4">Property:</dt>
+                                <dd class="col-sm-8">@Model.House.Title</dd>
+
+                                <dt class="col-sm-4">Address:</dt>
+                                <dd class="col-sm-8">@Model.House.Address, @Model.House.City</dd>
+
+                                <dt class="col-sm-4">Move-in Date:</dt>
+                                <dd class="col-sm-8">@Model.DesiredMoveInDate.ToString("MMM dd, yyyy")</dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <!-- Payment Breakdown -->
+                    <div class="row mb-4">
+                        <div class="col-12">
+                            <h5>Payment Breakdown</h5>
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <tbody>
+                                        <tr>
+                                            <td><strong>First Month's Rent:</strong></td>
+                                            <td class="text-end">R @Model.House.Price.ToString("N2")</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Security Deposit:</strong></td>
+                                            <td class="text-end">R @Model.House.Price.ToString("N2")</td>
+                                        </tr>
+                                        <tr class="table-success">
+                                            <td><strong>Total Amount Due:</strong></td>
+                                            <td class="text-end"><strong>R @Model.AmountDue.ToString("N2")</strong></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <p class="text-muted">Due by: @Model.PaymentDueDate?.ToString("MMM dd, yyyy")</p>
+                        </div>
+                    </div>
+
+                    <!-- Payment Instructions -->
+                    <div class="alert alert-info">
+                        <h6>Payment Instructions:</h6>
+                        <ul class="mb-0">
+                            <li>Click "Proceed to Payment" to complete your payment via Stripe</li>
+                            <li>You'll be redirected to a secure payment page</li>
+                            <li>After successful payment, your rental will be confirmed</li>
+                            <li>The property will be marked as rented</li>
+                        </ul>
+                    </div>
+
+                    <!-- Payment Form -->
+                    <form asp-controller="Payment" asp-action="CreateCheckoutSession" method="post">
+                        <input type="hidden" name="applicationId" value="@Model.ApplicationId" />
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="bi bi-credit-card"></i> Proceed to Payment - R @Model.AmountDue.ToString("N2")
+                            </button>
+                            <a asp-controller="Houses" asp-action="MyApplications" class="btn btn-outline-secondary">
+                                Back to My Applications
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

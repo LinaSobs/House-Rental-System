@@ -1,0 +1,872 @@
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\appsettings.Development.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\appsettings.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.staticwebassets.runtime.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.staticwebassets.endpoints.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.exe
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.deps.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.runtimeconfig.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.pdb
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Azure.Core.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Azure.Identity.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Humanizer.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Common.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.ClientModel.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.CodeDom.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Text.Json.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.csproj.AssemblyReference.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.AssemblyInfoInputs.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.AssemblyInfo.cs
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.csproj.CoreCompileInputs.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.RazorAssemblyInfo.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.RazorAssemblyInfo.cs
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\scopedcss\bundle\HouseRentalSystem.styles.css
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\scopedcss\projectbundle\HouseRentalSystem.bundle.scp.css
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\lkkxaaf92b-b9sayid5wm.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9igq1fsrfh-61n19gt1b8.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9n5v3p9set-xtxxf3hu2r.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\b1meejaqqt-bqjiyaj88i.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o7l69n301u-c2jlpeoesf.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\t51wof32mj-erw9l3u2r3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\oue6e3tksu-aexeepp0ev.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vmp6c0n22k-d7shbmvgxk.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\qarv3xgl4y-ausgxo2sd3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\hhi6uedrth-k8d9w2qqmf.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\64yzph8qdg-cosvhxvwiu.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o1ncwtlkk2-ub07r2b239.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\at6frn58wu-fvhpjtyr6v.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\xgr4zoygg3-b7pk76d08c.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\kscnmaxhvz-fsbi9cje9m.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\5iqvr2nunx-rzd6atqjts.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vn06db3gu9-ee0r1s7dh0.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1wdnxlagut-dxx9fxp4il.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nvd9wef66x-jd9uben2k1.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9e2drd4dvd-khv3u5hwcm.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nsvjxjtoqk-r4e9w2rdcm.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\cgx81xzkui-lcd1t2u6c8.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1s08x32uqe-c2oey78nd0.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8chd1u6kni-tdbxkamptv.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\2i51lzrjav-j5mq2jizvt.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o361y8hcc7-06098lyss8.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\v0aw2dl8ev-nvvlpmu67g.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\x77conl57d-s35ty4nyc5.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tiz7hb0bbw-pj5nd1wqec.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1hq915b7ad-46ein0sx1k.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8rswe68vmf-v0zj4ognzu.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\uopewbth4s-37tfw0ft22.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vorbzrn3zw-hrwsygsryq.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\3jxo0bho2k-pk9g2wxc8p.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\f62f4vyf56-ft3s53vfgj.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\z4yz0uuaeo-6cfz1n2cew.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\a54bctooc9-6pdc2jztkx.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\p9dvvowle4-493y06b0oq.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\s5gs6v8d0m-iovd86k7lj.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\g095ll8sm8-vr1egmr9el.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\0bbwz23dk2-kbrnm935zg.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\5jzrjllxhk-jj8uyg4cgr.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\4y1lachlfl-y7v9cxd14o.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\wwv3kzibrg-notf2xhcfb.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\44y23ufn26-h1s4sie4z3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\rhd4jh386c-63fj8s7r0e.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8ch03s6lzh-0j3bgjxly4.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\n01h4qepct-47otxtyo56.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\fh8km9qn3y-4v8eqarkd7.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ktfyj4a0qm-356vix0kms.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\swzo3ymyo0-83jwlth58m.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\v5p3wspfw1-mrlpezrjn3.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tma6wefo67-lzl9nlhx6b.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\svwaxen6gj-ag7o75518u.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\0wela8py49-x0q3zqp4vz.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1z2cvjrptf-0i3buxo5is.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\seg1r40zym-o1o13a6vjx.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\xh4yysz9qr-ttgo8qnofa.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\67ltxs4ici-2z0ns9nrw6.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\owi9kork5i-muycvpuwrr.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\zjk66ek7tt-87fc7y1x7t.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\g2f54aj25w-mlv21k5csn.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\kquntn7idd-xtb99trlxd.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\hegdkyz4n6-xtb99trlxd.gz
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.build.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.development.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRen.0C70806B.Up2Date
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\refint\HouseRentalSystem.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.pdb
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.genruntimeconfig.cache
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\ref\HouseRentalSystem.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Users\Nkosi Nathi\source\repos\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\appsettings.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.staticwebassets.runtime.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.staticwebassets.endpoints.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.exe
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.deps.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.runtimeconfig.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\HouseRentalSystem.pdb
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Humanizer.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.csproj.AssemblyReference.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.AssemblyInfoInputs.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.AssemblyInfo.cs
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.RazorAssemblyInfo.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.RazorAssemblyInfo.cs
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\scopedcss\bundle\HouseRentalSystem.styles.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\scopedcss\projectbundle\HouseRentalSystem.bundle.scp.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\lkkxaaf92b-b9sayid5wm.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9igq1fsrfh-61n19gt1b8.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9n5v3p9set-xtxxf3hu2r.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\b1meejaqqt-bqjiyaj88i.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o7l69n301u-c2jlpeoesf.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\t51wof32mj-erw9l3u2r3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\oue6e3tksu-aexeepp0ev.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vmp6c0n22k-d7shbmvgxk.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\qarv3xgl4y-ausgxo2sd3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\hhi6uedrth-k8d9w2qqmf.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\64yzph8qdg-cosvhxvwiu.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o1ncwtlkk2-ub07r2b239.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\at6frn58wu-fvhpjtyr6v.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\xgr4zoygg3-b7pk76d08c.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\kscnmaxhvz-fsbi9cje9m.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\5iqvr2nunx-rzd6atqjts.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vn06db3gu9-ee0r1s7dh0.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1wdnxlagut-dxx9fxp4il.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nvd9wef66x-jd9uben2k1.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\9e2drd4dvd-khv3u5hwcm.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\nsvjxjtoqk-r4e9w2rdcm.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\cgx81xzkui-lcd1t2u6c8.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1s08x32uqe-c2oey78nd0.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8chd1u6kni-tdbxkamptv.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\2i51lzrjav-j5mq2jizvt.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\o361y8hcc7-06098lyss8.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\v0aw2dl8ev-nvvlpmu67g.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\x77conl57d-s35ty4nyc5.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tiz7hb0bbw-pj5nd1wqec.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1hq915b7ad-46ein0sx1k.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8rswe68vmf-v0zj4ognzu.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\uopewbth4s-37tfw0ft22.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\vorbzrn3zw-hrwsygsryq.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\3jxo0bho2k-pk9g2wxc8p.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\f62f4vyf56-ft3s53vfgj.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\z4yz0uuaeo-6cfz1n2cew.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\a54bctooc9-6pdc2jztkx.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\p9dvvowle4-493y06b0oq.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\s5gs6v8d0m-iovd86k7lj.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\g095ll8sm8-vr1egmr9el.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\0bbwz23dk2-kbrnm935zg.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\5jzrjllxhk-jj8uyg4cgr.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\4y1lachlfl-y7v9cxd14o.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\wwv3kzibrg-notf2xhcfb.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\44y23ufn26-h1s4sie4z3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\rhd4jh386c-63fj8s7r0e.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\8ch03s6lzh-0j3bgjxly4.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\n01h4qepct-47otxtyo56.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\fh8km9qn3y-4v8eqarkd7.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\ktfyj4a0qm-356vix0kms.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\swzo3ymyo0-83jwlth58m.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\v5p3wspfw1-mrlpezrjn3.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\tma6wefo67-lzl9nlhx6b.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\svwaxen6gj-ag7o75518u.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\0wela8py49-x0q3zqp4vz.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\1z2cvjrptf-0i3buxo5is.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\seg1r40zym-o1o13a6vjx.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\xh4yysz9qr-ttgo8qnofa.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\67ltxs4ici-2z0ns9nrw6.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\owi9kork5i-muycvpuwrr.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\zjk66ek7tt-87fc7y1x7t.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\g2f54aj25w-mlv21k5csn.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\kquntn7idd-xtb99trlxd.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\compressed\hegdkyz4n6-xtb99trlxd.gz
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRen.0C70806B.Up2Date
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\refint\HouseRentalSystem.dll
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.pdb
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\HouseRentalSystem.genruntimeconfig.cache
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\obj\Debug\net9.0\ref\HouseRentalSystem.dll

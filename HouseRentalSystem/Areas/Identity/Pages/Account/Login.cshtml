@@ -1,0 +1,115 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header py-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <div class="text-center">
+                        <i class="fas fa-sign-in-alt fa-3x text-white mb-3"></i>
+                        <h1 class="h2 text-white mb-0">Welcome Back</h1>
+                        <p class="text-white-50 mb-0">Sign in to access your account</p>
+                    </div>
+                </div>
+                <div class="card-body p-5">
+                    <form id="account" method="post">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <!-- Login Form -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-user me-2"></i>Account Information
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder=" " />
+                                        <label asp-for="Input.Email" class="text-muted">
+                                            <i class="fas fa-envelope me-1"></i>Email Address
+                                        </label>
+                                        <span asp-validation-for="Input.Email" class="text-danger small"></span>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder=" " />
+                                        <label asp-for="Input.Password" class="text-muted">
+                                            <i class="fas fa-key me-1"></i>Password
+                                        </label>
+                                        <span asp-validation-for="Input.Password" class="text-danger small"></span>
+                                    </div>
+                                    <div class="form-check form-switch mb-3">
+                                        <input class="form-check-input" asp-for="Input.RememberMe" id="rememberMeCheckbox" style="transform: scale(1.2);" />
+                                        <label class="form-check-label fw-bold text-primary" asp-for="Input.RememberMe">
+                                            Remember me
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <button id="login-submit" type="submit" class="w-100 btn btn-lg text-white py-3" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                            <i class="fas fa-sign-in-alt me-2"></i>Sign In
+                        </button>
+
+                        <div class="text-center mt-3">
+                            <p class="text-muted">
+                                Don't have an account?
+                                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="text-primary text-decoration-none fw-bold">Register here</a>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <style>
+        .card {
+            border: none;
+            border-radius: 15px;
+        }
+
+        .card-header {
+            border-radius: 15px 15px 0 0 !important;
+            border: none;
+        }
+
+        .form-control {
+            border-radius: 10px;
+            border: 1px solid #dee2e6;
+            transition: all 0.3s ease;
+        }
+
+            .form-control:focus {
+                border-color: #0d6efd;
+                box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+            }
+
+        .form-floating > label {
+            color: #6c757d;
+        }
+
+        .btn {
+            border-radius: 10px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+            .btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 5px 15px rgba(13, 110, 253, 0.3);
+            }
+
+        .form-check-input:checked {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+    </style>
+}

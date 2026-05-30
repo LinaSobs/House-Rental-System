@@ -1,0 +1,349 @@
+﻿@model HouseRentalSystem.Models.ViewModels.HouseViewModel
+
+@{
+    ViewData["Title"] = "Add New Property";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card shadow-lg border-0">
+                <div class="card-header py-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <div class="text-center">
+                        <i class="fas fa-plus-circle fa-3x text-white mb-3"></i>
+                        <h1 class="h2 text-white mb-0">Add New Property</h1>
+                        <p class="text-white-50 mb-0">List your property for rental</p>
+                    </div>
+                </div>
+                <div class="card-body p-5">
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <!-- Basic Information -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-info-circle me-2"></i>Basic Information
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="Title" class="form-control" placeholder="Beautiful 3-Bedroom House in Pretoria" />
+                                                <label asp-for="Title" class="text-muted">
+                                                    <i class="fas fa-heading me-1"></i>Property Title *
+                                                </label>
+                                                <span asp-validation-for="Title" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="Price" class="form-control" type="number" step="0.01" placeholder=" " />
+                                                <label asp-for="Price" class="text-muted">
+                                                    <i class="fas fa-money-bill-wave me-1"></i>Monthly Rent (R) *
+                                                </label>
+                                                <span asp-validation-for="Price" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <textarea asp-for="Description" class="form-control" placeholder="Describe your property..." style="height: 120px;"></textarea>
+                                        <label asp-for="Description" class="text-muted">
+                                            <i class="fas fa-align-left me-1"></i>Property Description *
+                                        </label>
+                                        <span asp-validation-for="Description" class="text-danger small"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Location Information -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-map-marker-alt me-2"></i>Location Details
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="Address" class="form-control" placeholder="Street address" />
+                                                <label asp-for="Address" class="text-muted">
+                                                    <i class="fas fa-road me-1"></i>Street Address *
+                                                </label>
+                                                <span asp-validation-for="Address" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="City" class="form-control" placeholder="City" />
+                                                <label asp-for="City" class="text-muted">
+                                                    <i class="fas fa-city me-1"></i>City *
+                                                </label>
+                                                <span asp-validation-for="City" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="ZipCode" class="form-control" placeholder="0000" />
+                                                <label asp-for="ZipCode" class="text-muted">
+                                                    <i class="fas fa-mail-bulk me-1"></i>Zip Code *
+                                                </label>
+                                                <span asp-validation-for="ZipCode" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Property Specifications -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-home me-2"></i>Property Specifications
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="Bedrooms" class="form-control" type="number" min="1" max="10" placeholder=" " />
+                                                <label asp-for="Bedrooms" class="text-muted">
+                                                    <i class="fas fa-bed me-1"></i>Bedrooms *
+                                                </label>
+                                                <span asp-validation-for="Bedrooms" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="Bathrooms" class="form-control" type="number" min="1" max="5" placeholder=" " />
+                                                <label asp-for="Bathrooms" class="text-muted">
+                                                    <i class="fas fa-bath me-1"></i>Bathrooms *
+                                                </label>
+                                                <span asp-validation-for="Bathrooms" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="Area" class="form-control" type="number" step="0.1" placeholder=" " />
+                                                <label asp-for="Area" class="text-muted">
+                                                    <i class="fas fa-ruler-combined me-1"></i>Area (m²) *
+                                                </label>
+                                                <span asp-validation-for="Area" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Features & Amenities -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-star me-2"></i>Features & Amenities
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-check form-switch mb-3">
+                                                <input asp-for="HasParking" class="form-check-input" id="hasParkingSwitch" style="transform: scale(1.2);" />
+                                                <label asp-for="HasParking" class="form-check-label fw-bold text-primary" for="hasParkingSwitch">
+                                                    <i class="fas fa-parking me-2"></i>Parking Available
+                                                </label>
+                                            </div>
+                                            <div class="form-check form-switch mb-3">
+                                                <input asp-for="HasGarden" class="form-check-input" id="hasGardenSwitch" style="transform: scale(1.2);" />
+                                                <label asp-for="HasGarden" class="form-check-label fw-bold text-primary" for="hasGardenSwitch">
+                                                    <i class="fas fa-tree me-2"></i>Garden
+                                                </label>
+                                            </div>
+                                            <div class="form-check form-switch mb-3">
+                                                <input asp-for="HasPool" class="form-check-input" id="hasPoolSwitch" style="transform: scale(1.2);" />
+                                                <label asp-for="HasPool" class="form-check-label fw-bold text-primary" for="hasPoolSwitch">
+                                                    <i class="fas fa-swimming-pool me-2"></i>Swimming Pool
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-check form-switch mb-3">
+                                                <input asp-for="HasFurniture" class="form-check-input" id="hasFurnitureSwitch" style="transform: scale(1.2);" />
+                                                <label asp-for="HasFurniture" class="form-check-label fw-bold text-primary" for="hasFurnitureSwitch">
+                                                    <i class="fas fa-couch me-2"></i>Furnished
+                                                </label>
+                                            </div>
+                                            <div class="form-check form-switch mb-3">
+                                                <input asp-for="HasWiFi" class="form-check-input" id="hasWiFiSwitch" style="transform: scale(1.2);" />
+                                                <label asp-for="HasWiFi" class="form-check-label fw-bold text-primary" for="hasWiFiSwitch">
+                                                    <i class="fas fa-wifi me-2"></i>WiFi Included
+                                                </label>
+                                            </div>
+                                            <div class="form-check form-switch mb-3">
+                                                <input asp-for="PetsAllowed" class="form-check-input" id="petsAllowedSwitch" style="transform: scale(1.2);" />
+                                                <label asp-for="PetsAllowed" class="form-check-label fw-bold text-primary" for="petsAllowedSwitch">
+                                                    <i class="fas fa-paw me-2"></i>Pets Allowed
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Property Images -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-images me-2"></i>Property Images
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="alert alert-info border-0 mb-4" style="background: rgba(13, 110, 253, 0.1);">
+                                        <small class="text-muted">
+                                            <i class="fas fa-info-circle me-1"></i>
+                                            Upload up to 3 images of your property. The first image will be the main display image.
+                                            Recommended size: 800x600px or larger. Supported formats: JPG, PNG, JPEG.
+                                        </small>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="form-group mb-3">
+                                                <label asp-for="Image1" class="form-label fw-bold text-primary">
+                                                    <i class="fas fa-image me-1"></i>Main Image *
+                                                </label>
+                                                <input asp-for="Image1" class="form-control" type="file" accept="image/*" />
+                                                <span asp-validation-for="Image1" class="text-danger small"></span>
+                                                <small class="text-muted">Primary property photo</small>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group mb-3">
+                                                <label asp-for="Image2" class="form-label fw-bold text-primary">
+                                                    <i class="fas fa-image me-1"></i>Second Image
+                                                </label>
+                                                <input asp-for="Image2" class="form-control" type="file" accept="image/*" />
+                                                <span asp-validation-for="Image2" class="text-danger small"></span>
+                                                <small class="text-muted">Additional property view</small>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group mb-3">
+                                                <label asp-for="Image3" class="form-label fw-bold text-primary">
+                                                    <i class="fas fa-image me-1"></i>Third Image
+                                                </label>
+                                                <input asp-for="Image3" class="form-control" type="file" accept="image/*" />
+                                                <span asp-validation-for="Image3" class="text-danger small"></span>
+                                                <small class="text-muted">Room or amenity photo</small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Availability -->
+                        <div class="mb-4">
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="form-check form-switch">
+                                        <input asp-for="IsAvailable" class="form-check-input" id="availabilitySwitch" style="transform: scale(1.5);" checked />
+                                        <label asp-for="IsAvailable" class="form-check-label fw-bold text-primary fs-5" for="availabilitySwitch">
+                                            <i class="fas fa-home me-2"></i>This property is available for rent
+                                        </label>
+                                    </div>
+                                    <small class="text-muted">Toggle off to create the property as unavailable</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Action Buttons -->
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-action="Index" class="btn btn-lg btn-outline-secondary me-md-2 px-4">
+                                <i class="fas fa-arrow-left me-2"></i>Cancel
+                            </a>
+                            <button type="submit" class="btn btn-lg text-white px-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                                <i class="fas fa-plus-circle me-2"></i>Add Property
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .card {
+        border: none;
+        border-radius: 15px;
+    }
+
+    .card-header {
+        border-radius: 15px 15px 0 0 !important;
+        border: none;
+    }
+
+    .form-control, .form-select {
+        border-radius: 10px;
+        border: 1px solid #dee2e6;
+        transition: all 0.3s ease;
+    }
+
+        .form-control:focus, .form-select:focus {
+            border-color: #0d6efd;
+            box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+        }
+
+    .form-floating > label {
+        color: #6c757d;
+    }
+
+    .btn {
+        border-radius: 10px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(13, 110, 253, 0.3);
+        }
+
+    .form-check-input:checked {
+        background-color: #0d6efd;
+        border-color: #0d6efd;
+    }
+
+    .form-switch .form-check-input {
+        margin-right: 10px;
+    }
+
+    .alert {
+        border-radius: 10px;
+        border: none;
+    }
+
+    .border-primary {
+        border-color: #0d6efd !important;
+    }
+
+    .text-primary {
+        color: #0d6efd !important;
+    }
+
+    input[type="file"] {
+        border-radius: 10px;
+        padding: 0.75rem;
+        border: 1px solid #dee2e6;
+    }
+
+        input[type="file"]:focus {
+            border-color: #0d6efd;
+            box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+        }
+</style>

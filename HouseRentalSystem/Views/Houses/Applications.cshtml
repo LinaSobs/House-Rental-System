@@ -1,0 +1,167 @@
+﻿@model List<HouseRentalSystem.Models.RentalApplication>
+
+@{
+    ViewData["Title"] = "Rental Applications";
+    var houseTitle = ViewBag.HouseTitle as string;
+    var houseId = ViewBag.HouseId as int?;
+}
+
+<div class="container">
+    <div class="row mb-4">
+        <div class="col">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h1>Rental Applications</h1>
+                    <p class="text-muted">For: @houseTitle</p>
+                </div>
+                <div>
+                    <a asp-action="Index" class="btn btn-secondary">Back to Properties</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="text-center py-5">
+            <h3>No rental applications yet</h3>
+            <p class="text-muted">Applications from potential tenants will appear here.</p>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-12">
+                @foreach (var application in Model)
+                {
+                    <div class="card mb-4">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <h5 class="mb-0">
+                                Application from @application.Tenant.FirstName @application.Tenant.LastName
+                            </h5>
+                            <span class="badge @GetStatusBadgeClass(application.Status)">
+                                @application.Status
+                            </span>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h6>Applicant Information</h6>
+                                    <dl>
+                                        <dt>Name:</dt>
+                                        <dd>@application.Tenant.FirstName @application.Tenant.LastName</dd>
+
+                                        <dt>Email:</dt>
+                                        <dd>@application.Tenant.Email</dd>
+
+                                        <dt>Phone:</dt>
+                                        <dd>@application.Tenant.PhoneNumber</dd>
+
+                                        @if (!string.IsNullOrEmpty(application.Tenant.Occupation))
+                                        {
+                                            <dt>Occupation:</dt>
+                                            <dd>@application.Tenant.Occupation</dd>
+                                        }
+                                    </dl>
+                                </div>
+                                <div class="col-md-6">
+                                    <h6>Rental Details</h6>
+                                    <dl>
+                                        <dt>Application Date:</dt>
+                                        <dd>@application.ApplicationDate.ToString("MMM dd, yyyy")</dd>
+
+                                        <dt>Desired Move-in Date:</dt>
+                                        <dd>@application.DesiredMoveInDate.ToString("MMM dd, yyyy")</dd>
+
+                                        <dt>Lease Duration:</dt>
+                                        <dd>@application.DesiredLeaseMonths months</dd>
+                                    </dl>
+                                </div>
+                            </div>
+
+                            @if (!string.IsNullOrEmpty(application.MessageToOwner))
+                            {
+                                <div class="mt-3">
+                                    <h6>Message to Owner:</h6>
+                                    <div class="border rounded p-3 bg-light">
+                                        @application.MessageToOwner
+                                    </div>
+                                </div>
+                            }
+
+                            @if (!string.IsNullOrEmpty(application.OwnerNotes))
+                            {
+                                <div class="mt-3">
+                                    <h6>Your Notes:</h6>
+                                    <div class="border rounded p-3 bg-light">
+                                        @application.OwnerNotes
+                                    </div>
+                                </div>
+                            }
+
+                            @if (application.Status == ApplicationStatus.Pending)
+                            {
+                                <div class="mt-4">
+                                    <h6>Manage Application:</h6>
+                                    <form asp-action="UpdateApplicationStatus" method="post" class="row g-3">
+                                        @Html.AntiForgeryToken()
+                                        <input type="hidden" name="applicationId" value="@application.ApplicationId" />
+
+                                        <div class="col-md-6">
+                                            <label class="form-label">Status</label>
+                                            <select name="status" class="form-select" required>
+                                                <option value="@ApplicationStatus.Approved">Approve</option>
+                                                <option value="@ApplicationStatus.Rejected">Reject</option>
+                                            </select>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <label class="form-label">Notes (Optional)</label>
+                                            <textarea name="ownerNotes" class="form-control" rows="2" placeholder="Add any notes for the applicant..."></textarea>
+                                        </div>
+
+                                        <div class="col-12">
+                                            <button type="submit" class="btn btn-primary">Update Status</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="mt-3">
+                                    <p class="text-muted">
+                                        <strong>Status Updated:</strong>
+                                        @application.StatusUpdatedAt?.ToString("MMM dd, yyyy 'at' hh:mm tt")
+                                    </p>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+@functions {
+    public string GetStatusBadgeClass(ApplicationStatus status)
+    {
+        return status switch
+        {
+            ApplicationStatus.Pending => "bg-warning",
+            ApplicationStatus.Approved => "bg-success",
+            ApplicationStatus.Rejected => "bg-danger",
+            ApplicationStatus.Withdrawn => "bg-secondary",
+            _ => "bg-secondary"
+        };
+    }
+}

@@ -1,0 +1,215 @@
+﻿@model HouseRentalSystem.Models.ViewModels.RentalApplicationViewModel
+
+@{
+    ViewData["Title"] = "Apply for Rental";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header py-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <div class="text-center">
+                        <i class="fas fa-edit fa-3x text-white mb-3"></i>
+                        <h1 class="h2 text-white mb-0">Apply for Rental</h1>
+                        <p class="text-white-50 mb-0">Complete your rental application</p>
+                    </div>
+                </div>
+                <div class="card-body p-5">
+                    <!-- Property Info Alert -->
+                    <div class="alert border-primary mb-4" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+                        <div class="d-flex align-items-center">
+                            <i class="fas fa-home text-primary fa-2x me-3"></i>
+                            <div>
+                                <h5 class="text-primary mb-1">Applying for: @Model.HouseTitle</h5>
+                                <p class="text-muted mb-0">Please complete all required fields to submit your application</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <form asp-action="Apply" method="post">
+                        <input type="hidden" asp-for="HouseId" />
+                        <input type="hidden" asp-for="HouseTitle" />
+
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <!-- Application Details -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-calendar-alt me-2"></i>Rental Preferences
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-floating mb-3">
+                                                <input asp-for="DesiredMoveInDate" class="form-control" type="date"
+                                                       min="@DateTime.Today.ToString("yyyy-MM-dd")" placeholder=" " />
+                                                <label asp-for="DesiredMoveInDate" class="text-muted">
+                                                    <i class="fas fa-calendar-day me-1"></i>Desired Move-in Date
+                                                </label>
+                                                <span asp-validation-for="DesiredMoveInDate" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-floating mb-3">
+                                                <select asp-for="DesiredLeaseMonths" class="form-select">
+                                                    <option value="6">6 months</option>
+                                                    <option value="12" selected>12 months</option>
+                                                    <option value="18">18 months</option>
+                                                    <option value="24">24 months</option>
+                                                </select>
+                                                <label asp-for="DesiredLeaseMonths" class="text-muted">
+                                                    <i class="fas fa-clock me-1"></i>Lease Duration
+                                                </label>
+                                                <span asp-validation-for="DesiredLeaseMonths" class="text-danger small"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Message to Owner -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-comment-dots me-2"></i>Personal Message
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="form-floating mb-3">
+                                        <textarea asp-for="MessageToOwner" class="form-control" rows="4"
+                                                  placeholder="Tell the property owner about yourself, why you're interested in this property, or any special requirements..."
+                                                  style="height: 120px;"></textarea>
+                                        <label asp-for="MessageToOwner" class="text-muted">
+                                            <i class="fas fa-envelope-open-text me-1"></i>Message to Property Owner
+                                        </label>
+                                        <span asp-validation-for="MessageToOwner" class="text-danger small"></span>
+                                    </div>
+                                    <div class="alert alert-info border-0 mt-3" style="background: rgba(13, 110, 253, 0.1);">
+                                        <small class="text-muted">
+                                            <i class="fas fa-info-circle me-1"></i>
+                                            This message will be sent to the property owner along with your application.
+                                            You can introduce yourself and explain why you're interested in this property.
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Application Process Info -->
+                        <div class="mb-4">
+                            <div class="card border-warning">
+                                <div class="card-header bg-warning text-dark">
+                                    <h6 class="mb-0">
+                                        <i class="fas fa-clipboard-list me-2"></i>Application Process
+                                    </h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-4 text-center mb-3">
+                                            <div class="border rounded p-3" style="background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);">
+                                                <i class="fas fa-search text-warning fa-2x mb-2"></i>
+                                                <h6 class="fw-bold">Review</h6>
+                                                <small class="text-muted">Owner reviews your application</small>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 text-center mb-3">
+                                            <div class="border rounded p-3" style="background: linear-gradient(135deg, #d1ecf1 0%, #bee5eb 100%);">
+                                                <i class="fas fa-bell text-info fa-2x mb-2"></i>
+                                                <h6 class="fw-bold">Notification</h6>
+                                                <small class="text-muted">Get notified when status changes</small>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 text-center mb-3">
+                                            <div class="border rounded p-3" style="background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);">
+                                                <i class="fas fa-chart-line text-success fa-2x mb-2"></i>
+                                                <h6 class="fw-bold">Tracking</h6>
+                                                <small class="text-muted">Track status in "My Applications"</small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Action Buttons -->
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-action="Details" asp-route-id="@Model.HouseId" class="btn btn-lg btn-outline-secondary me-md-2 px-4">
+                                <i class="fas fa-arrow-left me-2"></i>Back to Property
+                            </a>
+                            <button type="submit" class="btn btn-lg text-white px-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                                <i class="fas fa-paper-plane me-2"></i>Submit Application
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<style>
+    .card {
+        border: none;
+        border-radius: 15px;
+    }
+
+    .card-header {
+        border-radius: 15px 15px 0 0 !important;
+        border: none;
+    }
+
+    .form-control, .form-select {
+        border-radius: 10px;
+        border: 1px solid #dee2e6;
+        transition: all 0.3s ease;
+    }
+
+        .form-control:focus, .form-select:focus {
+            border-color: #0d6efd;
+            box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+        }
+
+    .form-floating > label {
+        color: #6c757d;
+    }
+
+    .btn {
+        border-radius: 10px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(13, 110, 253, 0.3);
+        }
+
+    .alert {
+        border-radius: 10px;
+        border: none;
+    }
+
+    .border-primary {
+        border-color: #0d6efd !important;
+    }
+
+    .border-warning {
+        border-color: #ffc107 !important;
+    }
+
+    .text-primary {
+        color: #0d6efd !important;
+    }
+
+    .fa-2x {
+        font-size: 1.5em;
+    }
+</style>

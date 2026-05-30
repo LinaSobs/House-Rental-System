@@ -1,0 +1,500 @@
+﻿@model List<HouseRentalSystem.Models.RentalApplication>
+
+@{
+    ViewData["Title"] = "My Applications";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <!-- Header Section -->
+            <div class="card shadow-lg border-0 mb-4">
+                <div class="card-header py-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <div class="row align-items-center">
+                        <div class="col">
+                            <div class="text-center text-md-start">
+                                <i class="fas fa-clipboard-list fa-3x text-white mb-3"></i>
+                                <h1 class="h2 text-white mb-1">My Rental Applications</h1>
+                                <p class="text-white-50 mb-0">Track and manage your property applications</p>
+                            </div>
+                        </div>
+                        <div class="col-auto">
+                            <a asp-action="Browse" class="btn btn-lg text-white" style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3);">
+                                <i class="fas fa-search me-2"></i>Browse Properties
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Alert Messages -->
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success border-0 shadow-sm mb-4">
+                    <i class="fas fa-check-circle me-2"></i> @TempData["Success"]
+                </div>
+            }
+            @if (TempData["Info"] != null)
+            {
+                <div class="alert alert-info border-0 shadow-sm mb-4">
+                    <i class="fas fa-info-circle me-2"></i> @TempData["Info"]
+                </div>
+            }
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger border-0 shadow-sm mb-4">
+                    <i class="fas fa-exclamation-circle me-2"></i> @TempData["Error"]
+                </div>
+            }
+
+            @if (!Model.Any())
+            {
+                <!-- Empty State -->
+                <div class="card shadow-lg border-0 text-center py-5">
+                    <div class="card-body">
+                        <i class="fas fa-clipboard-list fa-4x text-muted mb-4"></i>
+                        <h3 class="text-muted mb-3">No Applications Yet</h3>
+                        <p class="text-muted mb-4">Start by browsing available properties and submitting applications.</p>
+                        <a asp-action="Browse" class="btn btn-lg text-white px-5" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                            <i class="fas fa-search me-2"></i>Browse Properties
+                        </a>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <!-- Applications Table -->
+                <div class="card shadow-lg border-0">
+                    <div class="card-header py-3" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+                        <div class="row align-items-center">
+                            <div class="col">
+                                <h5 class="mb-0 text-primary">
+                                    <i class="fas fa-table me-2"></i>Applications Summary
+                                </h5>
+                            </div>
+                            <div class="col-auto">
+                                <span class="badge bg-primary rounded-pill px-3 py-2">
+                                    @Model.Count Application@(Model.Count != 1 ? "s" : "")
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body p-0">
+                        <div class="table-responsive">
+                            <table class="table table-hover mb-0">
+                                <thead style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                                    <tr class="text-white">
+                                        <th class="ps-4">
+                                            <i class="fas fa-home me-2"></i>Property
+                                        </th>
+                                        <th>
+                                            <i class="fas fa-calendar me-2"></i>Applied
+                                        </th>
+                                        <th>
+                                            <i class="fas fa-money-bill-wave me-2"></i>Rent
+                                        </th>
+                                        <th>
+                                            <i class="fas fa-clock me-2"></i>Duration
+                                        </th>
+                                        <th>
+                                            <i class="fas fa-tag me-2"></i>Status
+                                        </th>
+                                        <th>
+                                            <i class="fas fa-credit-card me-2"></i>Payment
+                                        </th>
+                                        <th class="text-center pe-4">
+                                            <i class="fas fa-cogs me-2"></i>Actions
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var application in Model)
+                                    {
+                                        <tr class="border-bottom">
+                                            <td class="ps-4">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="flex-shrink-0">
+                                                        @if (!string.IsNullOrEmpty(application.House.ImagePath1))
+                                                        {
+                                                            <img src="@application.House.ImagePath1" class="rounded" alt="Property" style="width: 60px; height: 45px; object-fit: cover;">
+                                                        }
+                                                        else
+                                                        {
+                                                            <div class="bg-light rounded d-flex align-items-center justify-content-center" style="width: 60px; height: 45px;">
+                                                                <i class="fas fa-home text-muted"></i>
+                                                            </div>
+                                                        }
+                                                    </div>
+                                                    <div class="flex-grow-1 ms-3">
+                                                        <h6 class="mb-1 text-primary">@application.House.Title</h6>
+                                                        <small class="text-muted">
+                                                            <i class="fas fa-map-marker-alt me-1"></i>
+                                                            @application.House.Address, @application.House.City
+                                                        </small>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <strong>@application.ApplicationDate.ToString("MMM dd, yyyy")</strong>
+                                                <br>
+                                                <small class="text-muted">Move-in: @application.DesiredMoveInDate.ToString("MMM dd, yyyy")</small>
+                                            </td>
+                                            <td>
+                                                <strong class="text-success">R @application.House.Price.ToString("N2")</strong>
+                                                @if (application.AmountDue > 0)
+                                                {
+                                                    <br>
+                                                    <small class="text-primary">
+                                                        Due: R @application.AmountDue.ToString("N2")
+                                                    </small>
+                                                }
+                                            </td>
+                                            <td>
+                                                <strong>@application.DesiredLeaseMonths months</strong>
+                                            </td>
+                                            <td>
+                                                <span class="badge rounded-pill @GetStatusBadgeClass(application.Status) @GetStatusTextClass(application.Status) px-3 py-2">
+                                                    @GetStatusDisplayText(application.Status, application.PaymentCompleted)
+                                                </span>
+                                                @if (application.PaymentDueDate.HasValue && application.PaymentDueDate.Value < DateTime.Now && !application.PaymentCompleted)
+                                                {
+                                                    <br>
+                                                    <small class="text-danger">
+                                                        <i class="fas fa-exclamation-triangle me-1"></i>
+                                                        Overdue
+                                                    </small>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (application.PaymentCompleted)
+                                                {
+                                                    <span class="text-success">
+                                                        <i class="fas fa-check-circle me-1"></i>
+                                                        Paid
+                                                    </span>
+                                                    <br>
+                                                    <small class="text-muted">
+                                                        @application.PaymentDate?.ToString("MMM dd")
+                                                    </small>
+                                                }
+                                                else if (application.Status == ApplicationStatus.PaymentPending)
+                                                {
+                                                    <span class="text-warning">
+                                                        <i class="fas fa-clock me-1"></i>
+                                                        Pending
+                                                    </span>
+                                                    @if (application.PaymentDueDate.HasValue)
+                                                    {
+                                                        <br>
+                                                        <small class="text-muted">
+                                                            Due: @application.PaymentDueDate.Value.ToString("MMM dd")
+                                                        </small>
+                                                    }
+                                                }
+                                                else
+                                                {
+                                                    <span class="text-muted">
+                                                        <i class="fas fa-minus me-1"></i>
+                                                        N/A
+                                                    </span>
+                                                }
+                                            </td>
+                                            <td class="text-center pe-4">
+                                                <div class="btn-group" role="group">
+                                                    <a asp-action="Details" asp-route-id="@application.HouseId"
+                                                       class="btn btn-outline-primary btn-sm"
+                                                       data-bs-toggle="tooltip"
+                                                       title="View Property">
+                                                        <i class="fas fa-eye"></i>
+                                                    </a>
+
+                                                    @if (application.Status == ApplicationStatus.PaymentPending && !application.PaymentCompleted)
+                                                    {
+                                                        <a asp-controller="Payment" asp-action="Details" asp-route-id="@application.ApplicationId"
+                                                           class="btn btn-success btn-sm"
+                                                           data-bs-toggle="tooltip"
+                                                           title="Make Payment">
+                                                            <i class="fas fa-credit-card"></i>
+                                                        </a>
+                                                    }
+                                                    else
+                                                    {
+                                                        <button class="btn btn-outline-secondary btn-sm" disabled
+                                                                data-bs-toggle="tooltip"
+                                                                title="@GetActionTooltip(application.Status, application.PaymentCompleted)">
+                                                            <i class="fas @GetActionIcon(application.Status, application.PaymentCompleted)"></i>
+                                                        </button>
+                                                    }
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <!-- Expandable Row for Details -->
+                                        <tr class="bg-light">
+                                            <td colspan="7" class="p-0 border-0">
+                                                <div class="collapse" id="details-@application.ApplicationId">
+                                                    <div class="p-4">
+                                                        <div class="row">
+                                                            <!-- Messages -->
+                                                            @if (!string.IsNullOrEmpty(application.MessageToOwner))
+                                                            {
+                                                                <div class="col-md-6 mb-3">
+                                                                    <h6 class="text-primary">
+                                                                        <i class="fas fa-comment me-2"></i>Your Message
+                                                                    </h6>
+                                                                    <div class="card border-primary">
+                                                                        <div class="card-body">
+                                                                            <p class="mb-0 small">@application.MessageToOwner</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            }
+                                                            @if (!string.IsNullOrEmpty(application.OwnerNotes))
+                                                            {
+                                                                <div class="col-md-6 mb-3">
+                                                                    <h6 class="text-primary">
+                                                                        <i class="fas fa-user-check me-2"></i>Owner's Response
+                                                                    </h6>
+                                                                    <div class="card border-warning">
+                                                                        <div class="card-body">
+                                                                            <p class="mb-0 small">@application.OwnerNotes</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            }
+                                                        </div>
+
+                                                        <!-- Owner Contact -->
+                                                        <div class="row">
+                                                            <div class="col-12">
+                                                                <h6 class="text-primary">
+                                                                    <i class="fas fa-user me-2"></i>Property Owner
+                                                                </h6>
+                                                                <div class="d-flex justify-content-between align-items-center">
+                                                                    <div>
+                                                                        <strong>@application.House.Owner.FirstName @application.House.Owner.LastName</strong>
+                                                                        <br>
+                                                                        <small class="text-muted">@application.House.Owner.Email</small>
+                                                                    </div>
+                                                                    @if (application.StatusUpdatedAt.HasValue)
+                                                                    {
+                                                                        <small class="text-muted">
+                                                                            <i class="fas fa-clock me-1"></i>
+                                                                            Updated: @application.StatusUpdatedAt.Value.ToString("MMM dd, yyyy")
+                                                                        </small>
+                                                                    }
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <!-- Toggle Row -->
+                                        <tr>
+                                            <td colspan="7" class="text-center border-0">
+                                                <button class="btn btn-sm btn-link text-primary p-0"
+                                                        type="button"
+                                                        data-bs-toggle="collapse"
+                                                        data-bs-target="#details-@application.ApplicationId"
+                                                        aria-expanded="false"
+                                                        aria-controls="details-@application.ApplicationId">
+                                                    <small>
+                                                        <i class="fas fa-chevron-down me-1"></i>
+                                                        Show Details
+                                                    </small>
+                                                </button>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Stats -->
+                <div class="row mt-4">
+                    <div class="col-md-3">
+                        <div class="card border-primary text-center">
+                            <div class="card-body">
+                                <h3 class="text-primary mb-1">@Model.Count(a => a.Status == ApplicationStatus.Pending)</h3>
+                                <small class="text-muted">Pending Review</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card border-success text-center">
+                            <div class="card-body">
+                                <h3 class="text-success mb-1">@Model.Count(a => a.Status == ApplicationStatus.Approved)</h3>
+                                <small class="text-muted">Approved</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card border-warning text-center">
+                            <div class="card-body">
+                                <h3 class="text-warning mb-1">@Model.Count(a => a.Status == ApplicationStatus.PaymentPending)</h3>
+                                <small class="text-muted">Payment Required</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card border-info text-center">
+                            <div class="card-body">
+                                <h3 class="text-info mb-1">@Model.Count(a => a.PaymentCompleted)</h3>
+                                <small class="text-muted">Completed</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@functions {
+    public string GetStatusBadgeClass(ApplicationStatus status)
+    {
+        return status switch
+        {
+            ApplicationStatus.Pending => "bg-warning",
+            ApplicationStatus.Approved => "bg-success",
+            ApplicationStatus.PaymentPending => "bg-primary",
+            ApplicationStatus.Completed => "bg-success",
+            ApplicationStatus.Rejected => "bg-danger",
+            ApplicationStatus.Withdrawn => "bg-secondary",
+            _ => "bg-secondary"
+        };
+    }
+
+    public string GetStatusTextClass(ApplicationStatus status)
+    {
+        return status switch
+        {
+            ApplicationStatus.Pending => "text-dark",
+            ApplicationStatus.Approved => "text-white",
+            ApplicationStatus.PaymentPending => "text-white",
+            ApplicationStatus.Completed => "text-white",
+            ApplicationStatus.Rejected => "text-white",
+            ApplicationStatus.Withdrawn => "text-white",
+            _ => "text-white"
+        };
+    }
+
+    public string GetStatusDisplayText(ApplicationStatus status, bool paymentCompleted)
+    {
+        if (status == ApplicationStatus.Completed && paymentCompleted)
+        {
+            return "Completed ✓";
+        }
+
+        return status switch
+        {
+            ApplicationStatus.Pending => "Pending",
+            ApplicationStatus.Approved => "Approved",
+            ApplicationStatus.PaymentPending => "Payment Due",
+            ApplicationStatus.Completed => "Completed",
+            ApplicationStatus.Rejected => "Rejected",
+            ApplicationStatus.Withdrawn => "Withdrawn",
+            _ => status.ToString()
+        };
+    }
+
+    public string GetActionTooltip(ApplicationStatus status, bool paymentCompleted)
+    {
+        return status switch
+        {
+            ApplicationStatus.Pending => "Under Review",
+            ApplicationStatus.Approved => "Awaiting Payment Setup",
+            ApplicationStatus.PaymentPending => "Make Payment",
+            ApplicationStatus.Completed => "Completed",
+            ApplicationStatus.Rejected => "Rejected",
+            _ => "No Action Available"
+        };
+    }
+
+    public string GetActionIcon(ApplicationStatus status, bool paymentCompleted)
+    {
+        return status switch
+        {
+            ApplicationStatus.Pending => "fa-clock",
+            ApplicationStatus.Approved => "fa-hourglass-half",
+            ApplicationStatus.Completed => "fa-check-circle",
+            ApplicationStatus.Rejected => "fa-times-circle",
+            _ => "fa-minus"
+        };
+    }
+}
+
+<style>
+    .card {
+        border: none;
+        border-radius: 15px;
+    }
+
+    .card-header {
+        border-radius: 15px 15px 0 0 !important;
+        border: none;
+    }
+
+    .table thead th {
+        border: none;
+        font-weight: 600;
+        padding: 1rem;
+    }
+
+    .table tbody td {
+        vertical-align: middle;
+        padding: 1rem;
+        border-color: #dee2e6;
+    }
+
+    .btn {
+        border-radius: 8px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+        .btn:hover {
+            transform: translateY(-1px);
+        }
+
+    .badge {
+        border-radius: 20px;
+        font-weight: 600;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: rgba(13, 110, 253, 0.05);
+    }
+
+    .collapse {
+        transition: all 0.3s ease;
+    }
+</style>
+
+@section Scripts {
+    <script>
+        // Initialize tooltips
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl)
+        })
+
+        // Handle collapse toggle text
+        document.querySelectorAll('[data-bs-toggle="collapse"]').forEach(button => {
+            button.addEventListener('click', function() {
+                const target = document.querySelector(this.getAttribute('data-bs-target'));
+                const isExpanded = this.getAttribute('aria-expanded') === 'true';
+
+                if (isExpanded) {
+                    this.innerHTML = '<small><i class="fas fa-chevron-down me-1"></i>Show Details</small>';
+                } else {
+                    this.innerHTML = '<small><i class="fas fa-chevron-up me-1"></i>Hide Details</small>';
+                }
+            });
+        });
+    </script>
+}

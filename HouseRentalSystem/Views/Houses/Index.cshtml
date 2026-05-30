@@ -1,0 +1,101 @@
+﻿@model IEnumerable<HouseRentalSystem.Models.House>
+
+@{
+    ViewData["Title"] = "My Properties";
+}
+
+<div class="container">
+    <div class="row mb-4">
+        <div class="col">
+            <h1>My Properties</h1>
+            <p class="text-muted">Manage your rental properties</p>
+        </div>
+        <div class="col-auto">
+            <a asp-action="Create" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i> Add New Property
+            </a>
+        </div>
+    </div>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="text-center py-5">
+            <h3>No properties listed yet</h3>
+            <p class="text-muted">Start by adding your first rental property</p>
+            <a asp-action="Create" class="btn btn-primary btn-lg">Add Your First Property</a>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var house in Model)
+            {
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100">
+                        @if (!string.IsNullOrEmpty(house.ImagePath1))
+                        {
+                            <img src="@house.ImagePath1" class="card-img-top" alt="@house.Title" style="height: 200px; object-fit: cover;">
+                        }
+                        else
+                        {
+                            <div class="card-img-top bg-light d-flex align-items-center justify-content-center" style="height: 200px;">
+                                <span class="text-muted">No Image</span>
+                            </div>
+                        }
+
+                        <!-- PUT THE CARD BODY CODE HERE -->
+                        <div class="card-body">
+                            <h5 class="card-title">@house.Title</h5>
+                            <p class="card-text text-muted">@house.Address, @house.City</p>
+
+                            <div class="row text-center mb-3">
+                                <div class="col-3">
+                                    <small class="text-muted">Bedrooms</small>
+                                    <div><strong>@house.Bedrooms</strong></div>
+                                </div>
+                                <div class="col-3">
+                                    <small class="text-muted">Bathrooms</small>
+                                    <div><strong>@house.Bathrooms</strong></div>
+                                </div>
+                                <div class="col-3">
+                                    <small class="text-muted">Area</small>
+                                    <div><strong>@house.Area m²</strong></div>
+                                </div>
+                                <div class="col-3">
+                                    <small class="text-muted">Applications</small>
+                                    <div><strong>@house.RentalApplications.Count</strong></div>
+                                </div>
+                            </div>
+
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span class="h5 text-primary mb-0">R @house.Price.ToString("N2")/month</span>
+                                <span class="badge @(house.IsAvailable ? "bg-success" : "bg-secondary")">
+                                    @(house.IsAvailable ? "Available" : "Rented")
+                                </span>
+                            </div>
+                        </div>
+                        <!-- END OF CARD BODY -->
+
+                        <div class="card-footer">
+                            <div class="btn-group w-100">
+                                <a asp-action="Edit" asp-route-id="@house.HouseId" class="btn btn-outline-primary">Edit</a>
+                                <a asp-action="Details" asp-route-id="@house.HouseId" class="btn btn-outline-info">Details</a>
+                                <a asp-action="Applications" asp-route-id="@house.HouseId" class="btn btn-outline-success">Applications (@house.RentalApplications.Count)</a>
+                                <a asp-action="Delete" asp-route-id="@house.HouseId" class="btn btn-outline-danger">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

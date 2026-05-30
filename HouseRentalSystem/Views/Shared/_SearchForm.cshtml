@@ -1,0 +1,54 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject UserManager<ApplicationUser> UserManager
+
+<!-- Search Form -->
+<div class="search-container bg-primary text-white p-4 rounded shadow mb-4">
+    <form asp-controller="Houses" asp-action="Browse" method="get" class="row g-3 align-items-end">
+        <div class="col-md-3">
+            <label for="searchString" class="form-label">Search</label>
+            <input type="text" class="form-control" id="searchString" name="searchString"
+                   value="@ViewBag.SearchString" placeholder="Enter keywords, location...">
+        </div>
+
+        <div class="col-md-2">
+            <label for="city" class="form-label">City</label>
+            <input type="text" class="form-control" id="city" name="city"
+                   value="@ViewBag.City" placeholder="Any city">
+        </div>
+
+        <div class="col-md-2">
+            <label for="minBedrooms" class="form-label">Min Bedrooms</label>
+            <select class="form-select" id="minBedrooms" name="minBedrooms">
+                <option value="">Any</option>
+                <option value="1" selected="@(ViewBag.MinBedrooms == 1)">1+</option>
+                <option value="2" selected="@(ViewBag.MinBedrooms == 2)">2+</option>
+                <option value="3" selected="@(ViewBag.MinBedrooms == 3)">3+</option>
+                <option value="4" selected="@(ViewBag.MinBedrooms == 4)">4+</option>
+                <option value="5" selected="@(ViewBag.MinBedrooms == 5)">5+</option>
+            </select>
+        </div>
+
+        <div class="col-md-2">
+            <label for="maxPrice" class="form-label">Max Price ($)</label>
+            <input type="number" class="form-control" id="maxPrice" name="maxPrice"
+                   value="@ViewBag.MaxPrice" placeholder="No limit" min="0" step="50">
+        </div>
+
+        <div class="col-md-2">
+            <label for="sortBy" class="form-label">Sort By</label>
+            <select class="form-select" id="sortBy" name="sortBy">
+                <option value="newest" selected="@(ViewBag.SortBy == "newest")">Newest First</option>
+                <option value="price_low" selected="@(ViewBag.SortBy == "price_low")">Price: Low to High</option>
+                <option value="price_high" selected="@(ViewBag.SortBy == "price_high")">Price: High to Low</option>
+                <option value="bedrooms" selected="@(ViewBag.SortBy == "bedrooms")">Most Bedrooms</option>
+                <option value="size" selected="@(ViewBag.SortBy == "size")">Largest Size</option>
+            </select>
+        </div>
+
+        <div class="col-md-1">
+            <button type="submit" class="btn btn-warning w-100">
+                <i class="fas fa-search"></i> Search
+            </button>
+        </div>
+    </form>
+</div>

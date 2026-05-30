@@ -1,0 +1,146 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\houses\0bb60c89-1127-4dec-89b3-d03350226522_Screenshot 2025-09-27 123833.png
+wwwroot\images\houses\0d683ae6-ed40-4dc4-a3d9-384f371bdd2c_Screenshot 2025-09-18 110526.png
+wwwroot\images\houses\23947610-1efd-46b2-80b5-6b86f89ee12d_Screenshot 2025-09-27 123658.png
+wwwroot\images\houses\2612e211-cdb7-43e6-a871-efa8482831c7_Screenshot 2025-09-22 215017.png
+wwwroot\images\houses\2eeac17f-ffd9-4af1-806f-2302e65b5e4a_R.jpg
+wwwroot\images\houses\2fc93fe6-b9b9-4d7a-bca8-a4d15126f275_Screenshot 2025-09-27 123737.png
+wwwroot\images\houses\36180728-bff4-4b33-9a96-7ae89e3cf3c4_Screenshot 2025-09-18 110526.png
+wwwroot\images\houses\46ab4faa-24b2-4f53-98e1-4aee8fa3f8fe_12248177.jpg
+wwwroot\images\houses\522d53fe-d973-4be1-885a-1293840ba1a5_OIP (1).webp
+wwwroot\images\houses\621c4ff9-69ee-4841-8eaf-a3cbed9ad3bc_Screenshot 2025-09-27 123737.png
+wwwroot\images\houses\669361a4-e2a8-4a22-bb3b-54e42db305b4_Screenshot 2025-09-22 215640.png
+wwwroot\images\houses\6e6e2ad8-bc49-47c1-8152-361ae9484585_OIP (2).webp
+wwwroot\images\houses\6f3e5d53-779e-4f22-9260-9efb14658522_OIP.webp
+wwwroot\images\houses\73b0e2e5-78fc-4239-b572-4918814853d7_Screenshot 2025-09-22 214949.png
+wwwroot\images\houses\a174a12e-70ae-4da8-8398-e71c72e621df_Screenshot 2025-09-27 123833.png
+wwwroot\images\houses\a2b1f803-f9ea-4301-83db-6e438cb7dcd4_R.jpg
+wwwroot\images\houses\aa6ebdf0-7167-4fae-bca1-52a3d4f899cb_oribi-village-s-29-38-18-e-30-23-11.jpg
+wwwroot\images\houses\acd031c1-e232-40b3-b99f-6ea0350534c1_Screenshot 2025-09-27 123833.png
+wwwroot\images\houses\be51c64a-b2ee-43be-badf-852b62e59f16_OIP (1).webp
+wwwroot\images\houses\d72cad03-d9b6-406f-8220-a4fde5743f1f_Screenshot 2025-09-27 123833.png
+wwwroot\images\houses\db8a7559-20cb-4655-813e-b28dc98317aa_OIP (2).webp
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\js\site.js
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\favicon.ico
+C:\Users\sobik\OneDrive\Documents\School Work\Semester 2\DEVP302\HouseRentalSystem\HouseRentalSystem\wwwroot\css\site.css

@@ -1,0 +1,123 @@
+﻿@model IEnumerable<HouseRentalSystem.Models.House>
+
+@{
+    ViewData["Title"] = "Browse Properties";
+}
+
+<div class="container">
+    <div class="row mb-4">
+        <div class="col">
+            <h1>Available Properties</h1>
+            <p class="text-muted">Find your perfect home</p>
+        </div>
+        <div class="col-auto">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a asp-action="MyApplications" class="btn btn-outline-primary">
+                    My Applications
+                </a>
+            }
+        </div>
+    </div>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="text-center py-5">
+            <h3>No properties available at the moment</h3>
+            <p class="text-muted">Check back later for new listings</p>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var house in Model)
+            {
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100">
+                        @if (!string.IsNullOrEmpty(house.ImagePath1))
+                        {
+                            <img src="@house.ImagePath1" class="card-img-top" alt="@house.Title" style="height: 200px; object-fit: cover;">
+                        }
+                        else
+                        {
+                            <div class="card-img-top bg-light d-flex align-items-center justify-content-center" style="height: 200px;">
+                                <span class="text-muted">No Image</span>
+                            </div>
+                        }
+
+                        <div class="card-body">
+                            <h5 class="card-title">@house.Title</h5>
+                            <p class="card-text text-muted">@house.Address, @house.City</p>
+
+                            <div class="row text-center mb-3">
+                                <div class="col-4">
+                                    <small class="text-muted">Bedrooms</small>
+                                    <div><strong>@house.Bedrooms</strong></div>
+                                </div>
+                                <div class="col-4">
+                                    <small class="text-muted">Bathrooms</small>
+                                    <div><strong>@house.Bathrooms</strong></div>
+                                </div>
+                                <div class="col-4">
+                                    <small class="text-muted">Area</small>
+                                    <div><strong>@house.Area m²</strong></div>
+                                </div>
+                            </div>
+
+                            <!-- Features -->
+                            <div class="mb-3">
+                                @if (house.HasParking)
+                                {
+                                    <span class="badge bg-light text-dark me-1">Parking</span>
+                                }
+                                @if (house.HasGarden)
+                                {
+                                    <span class="badge bg-light text-dark me-1">Garden</span>
+                                }
+                                @if (house.HasPool)
+                                {
+                                    <span class="badge bg-light text-dark me-1">Pool</span>
+                                }
+                                @if (house.HasFurniture)
+                                {
+                                    <span class="badge bg-light text-dark me-1">Furnished</span>
+                                }
+                                @if (house.HasWiFi)
+                                {
+                                    <span class="badge bg-light text-dark me-1">WiFi</span>
+                                }
+                                @if (house.PetsAllowed)
+                                {
+                                    <span class="badge bg-light text-dark me-1">Pets</span>
+                                }
+                            </div>
+
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span class="h5 text-primary mb-0">R @house.Price.ToString("N2")/month</span>
+                            </div>
+                        </div>
+
+                        <div class="card-footer">
+                            <div class="btn-group w-100">
+                                <a asp-action="Details" asp-route-id="@house.HouseId" class="btn btn-outline-info">View Details</a>
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <a asp-action="Apply" asp-route-id="@house.HouseId" class="btn btn-primary">Apply Now</a>
+                                }
+                                else
+                                {
+                                    <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-primary">Login to Apply</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

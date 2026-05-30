@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Payment Successful";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-success text-white text-center">
+                    <i class="bi bi-check-circle-fill display-4"></i>
+                    <h2 class="card-title mb-0 mt-2">Payment Successful!</h2>
+                </div>
+                <div class="card-body text-center">
+                    @if (TempData["Success"] != null)
+                    {
+                        <div class="alert alert-success">
+                            <h4>@TempData["Success"]</h4>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="alert alert-success">
+                            <h4>Payment Completed Successfully!</h4>
+                            <p class="mb-0">Your rental has been confirmed.</p>
+                        </div>
+                    }
+
+                    <div class="alert alert-info mt-4">
+                        <h6>What happens next?</h6>
+                        <ul class="text-start">
+                            <li>The property owner will contact you within 24 hours</li>
+                            <li>They will arrange key handover and move-in details</li>
+                            <li>Keep your payment confirmation for records</li>
+                            <li>You will receive a confirmation email shortly</li>
+                        </ul>
+                    </div>
+
+                    <div class="mt-4">
+                        <a asp-controller="Houses" asp-action="MyApplications" class="btn btn-primary me-2">
+                            View My Applications
+                        </a>
+                        <a asp-controller="Houses" asp-action="Browse" class="btn btn-outline-secondary">
+                            Browse More Properties
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

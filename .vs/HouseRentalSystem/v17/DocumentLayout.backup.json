@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\migrations\\20251012210335_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\migrations\\20251012210335_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\migrations\\20251007221945_updateapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\migrations\\20251007221945_updateapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\houserentalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\houserentalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|c:\\users\\sobik\\onedrive\\documents\\school work\\semester 2\\devp302\\houserentalsystem\\houserentalsystem\\migrations\\20251012205358_mnqundu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41997EFB-1EB1-4F3D-A4A5-14275FFEC3B2}|HouseRentalSystem\\HouseRentalSystem.csproj|solutionrelative:houserentalsystem\\migrations\\20251012205358_mnqundu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251012210335_enter.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Migrations\\20251012210335_enter.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Migrations\\20251012210335_enter.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Migrations\\20251012210335_enter.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Migrations\\20251012210335_enter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:03:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251012205358_mnqundu.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Migrations\\20251012205358_mnqundu.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Migrations\\20251012205358_mnqundu.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Migrations\\20251012205358_mnqundu.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Migrations\\20251012205358_mnqundu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:53:58.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAiwLMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:12:39.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\appsettings.json",
+              "RelativeToolTip": "HouseRentalSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T22:03:23.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HouseRentalSystem\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T22:12:17.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HouseRentalSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T22:12:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251007221945_UpdateApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Migrations\\20251007221945_UpdateApplicationUser.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Migrations\\20251007221945_UpdateApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Migrations\\20251007221945_UpdateApplicationUser.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Migrations\\20251007221945_UpdateApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:19:45.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Program.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:02:49.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:02:08.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HouseRentalSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\HouseRentalSystem.csproj",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\HouseRentalSystem.csproj",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\HouseRentalSystem.csproj",
+              "RelativeToolTip": "HouseRentalSystem\\HouseRentalSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T22:01:38.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HouseRentalSystem\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sobik\\OneDrive\\Documents\\School Work\\Semester 2\\DEVP302\\HouseRentalSystem\\HouseRentalSystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HouseRentalSystem\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:01:15.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

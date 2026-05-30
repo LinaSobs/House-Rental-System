@@ -1,0 +1,238 @@
+﻿@model HouseRentalSystem.Models.House
+
+@{
+    ViewData["Title"] = "Property Details";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Breadcrumb -->
+            <nav aria-label="breadcrumb" class="mb-4">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-action="Browse" class="text-decoration-none">Browse Properties</a></li>
+                    <li class="breadcrumb-item active text-primary">Property Details</li>
+                </ol>
+            </nav>
+
+            <!-- Main Property Card -->
+            <div class="card shadow-lg border-0 mb-4">
+                <div class="card-header py-3" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <div class="text-center">
+                        <h1 class="h3 text-white mb-1">@Model.Title</h1>
+                        <p class="text-white-50 mb-0">
+                            <i class="fas fa-map-marker-alt me-1"></i>@Model.Address, @Model.City
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Images and Basic Info -->
+                <div class="row g-0">
+                    <!-- Main Image -->
+                    <div class="col-md-8">
+                        @if (!string.IsNullOrEmpty(Model.ImagePath1))
+                        {
+                            <img src="@Model.ImagePath1" class="img-fluid rounded-start" alt="@Model.Title" style="height: 450px; width: 100%; object-fit: cover;">
+                        }
+                        else
+                        {
+                            <div class="bg-light d-flex align-items-center justify-content-center" style="height: 450px; border-radius: 15px 0 0 0;">
+                                <div class="text-center text-muted">
+                                    <i class="fas fa-home fa-3x mb-3"></i>
+                                    <p class="mb-0">No Image Available</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <!-- Property Details Sidebar -->
+                    <div class="col-md-4">
+                        <div class="card-body h-100 d-flex flex-column p-4">
+                            <!-- Price -->
+                            <div class="text-center mb-4">
+                                <span class="h2 text-primary fw-bold">R @Model.Price.ToString("N2")</span>
+                                <div class="text-muted">per month</div>
+                            </div>
+
+                            <!-- Property Features -->
+                            <div class="row text-center mb-4">
+                                <div class="col-4">
+                                    <div class="border rounded p-3" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+                                        <i class="fas fa-bed text-primary fa-lg mb-2"></i>
+                                        <div><strong class="h5">@Model.Bedrooms</strong></div>
+                                        <div><small class="text-muted">Bedrooms</small></div>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="border rounded p-3" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+                                        <i class="fas fa-bath text-primary fa-lg mb-2"></i>
+                                        <div><strong class="h5">@Model.Bathrooms</strong></div>
+                                        <div><small class="text-muted">Bathrooms</small></div>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="border rounded p-3" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+                                        <i class="fas fa-ruler-combined text-primary fa-lg mb-2"></i>
+                                        <div><strong class="h5">@Model.Area</strong></div>
+                                        <div><small class="text-muted">m²</small></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Apply Button -->
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <a asp-action="Apply" asp-route-id="@Model.HouseId" class="btn btn-lg text-white py-3 mt-auto" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                                    <i class="fas fa-edit me-2"></i>Apply for Rental
+                                </a>
+                            }
+                            else
+                            {
+                                <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-lg text-white py-3 mt-auto" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                                    <i class="fas fa-sign-in-alt me-2"></i>Login to Apply
+                                </a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Description Section -->
+            <div class="card shadow-lg border-0 mb-4">
+                <div class="card-header py-3" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <h5 class="text-white mb-0">
+                        <i class="fas fa-align-left me-2"></i>Property Description
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <p class="lead mb-0">@Model.Description</p>
+                </div>
+            </div>
+
+            <!-- Features & Amenities -->
+            <div class="card shadow-lg border-0 mb-4">
+                <div class="card-header py-3" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <h5 class="text-white mb-0">
+                        <i class="fas fa-star me-2"></i>Features & Amenities
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas @(Model.HasParking ? "fa-check-circle text-success" : "fa-times-circle text-danger") fa-lg me-3"></i>
+                                <span class="fw-medium">Parking Available</span>
+                            </div>
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas @(Model.HasGarden ? "fa-check-circle text-success" : "fa-times-circle text-danger") fa-lg me-3"></i>
+                                <span class="fw-medium">Garden</span>
+                            </div>
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas @(Model.HasPool ? "fa-check-circle text-success" : "fa-times-circle text-danger") fa-lg me-3"></i>
+                                <span class="fw-medium">Swimming Pool</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas @(Model.HasFurniture ? "fa-check-circle text-success" : "fa-times-circle text-danger") fa-lg me-3"></i>
+                                <span class="fw-medium">Furnished</span>
+                            </div>
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas @(Model.HasWiFi ? "fa-check-circle text-success" : "fa-times-circle text-danger") fa-lg me-3"></i>
+                                <span class="fw-medium">WiFi Included</span>
+                            </div>
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas @(Model.PetsAllowed ? "fa-check-circle text-success" : "fa-times-circle text-danger") fa-lg me-3"></i>
+                                <span class="fw-medium">Pets Allowed</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Additional Images -->
+            @if (!string.IsNullOrEmpty(Model.ImagePath2) || !string.IsNullOrEmpty(Model.ImagePath3))
+            {
+                <div class="card shadow-lg border-0">
+                    <div class="card-header py-3" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                        <h5 class="text-white mb-0">
+                            <i class="fas fa-images me-2"></i>Additional Images
+                        </h5>
+                    </div>
+                    <div class="card-body p-4">
+                        <div class="row">
+                            @if (!string.IsNullOrEmpty(Model.ImagePath2))
+                            {
+                                <div class="col-md-6 mb-3">
+                                    <img src="@Model.ImagePath2" class="img-fluid rounded shadow" alt="Additional image 1" style="height: 250px; width: 100%; object-fit: cover;">
+                                </div>
+                            }
+                            @if (!string.IsNullOrEmpty(Model.ImagePath3))
+                            {
+                                <div class="col-md-6 mb-3">
+                                    <img src="@Model.ImagePath3" class="img-fluid rounded shadow" alt="Additional image 2" style="height: 250px; width: 100%; object-fit: cover;">
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border: none;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+
+    .card-header {
+        border: none;
+    }
+
+    .btn {
+        border-radius: 10px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+        border: none;
+    }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(13, 110, 253, 0.3);
+        }
+
+    .breadcrumb {
+        background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        border-radius: 10px;
+        padding: 1rem 1.5rem;
+    }
+
+    .breadcrumb-item a {
+        color: #0d6efd;
+        transition: color 0.3s ease;
+    }
+
+        .breadcrumb-item a:hover {
+            color: #0dcaf0;
+        }
+
+    .border {
+        border-color: #dee2e6 !important;
+        border-radius: 10px;
+    }
+
+    .img-fluid {
+        border-radius: 10px;
+    }
+
+    .text-primary {
+        color: #0d6efd !important;
+    }
+
+    .fa-lg {
+        font-size: 1.5em;
+    }
+</style>

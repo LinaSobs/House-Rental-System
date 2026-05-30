@@ -1,0 +1,266 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header py-4" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                    <div class="text-center">
+                        <i class="fas fa-user-plus fa-3x text-white mb-3"></i>
+                        <h1 class="h2 text-white mb-0">Create Your Account</h1>
+                        <p class="text-white-50 mb-0">Join our community of tenants and property owners</p>
+                    </div>
+                </div>
+                <div class="card-body p-5">
+                    <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <!-- Personal Information -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-user me-2"></i>Personal Information
+                            </h5>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.FirstName" class="form-control" autocomplete="given-name" placeholder=" " />
+                                        <label asp-for="Input.FirstName" class="text-muted">
+                                            <i class="fas fa-signature me-1"></i>First Name
+                                        </label>
+                                        <span asp-validation-for="Input.FirstName" class="text-danger small"></span>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.LastName" class="form-control" autocomplete="family-name" placeholder=" " />
+                                        <label asp-for="Input.LastName" class="text-muted">
+                                            <i class="fas fa-signature me-1"></i>Last Name
+                                        </label>
+                                        <span asp-validation-for="Input.LastName" class="text-danger small"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder=" " />
+                                <label asp-for="Input.Email" class="text-muted">
+                                    <i class="fas fa-envelope me-1"></i>Email Address
+                                </label>
+                                <span asp-validation-for="Input.Email" class="text-danger small"></span>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input asp-for="Input.DateOfBirth" class="form-control" type="date" placeholder=" " />
+                                <label asp-for="Input.DateOfBirth" class="text-muted">
+                                    <i class="fas fa-calendar-alt me-1"></i>Date of Birth
+                                </label>
+                                <span asp-validation-for="Input.DateOfBirth" class="text-danger small"></span>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input asp-for="Input.PhoneNumber" class="form-control" autocomplete="tel" placeholder=" " />
+                                <label asp-for="Input.PhoneNumber" class="text-muted">
+                                    <i class="fas fa-phone me-1"></i>Phone Number
+                                </label>
+                                <span asp-validation-for="Input.PhoneNumber" class="text-danger small"></span>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <textarea asp-for="Input.Address" class="form-control" rows="3" placeholder=" "></textarea>
+                                <label asp-for="Input.Address" class="text-muted">
+                                    <i class="fas fa-map-marker-alt me-1"></i>Address
+                                </label>
+                                <span asp-validation-for="Input.Address" class="text-danger small"></span>
+                            </div>
+                        </div>
+
+                        <!-- Role Selection -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-users me-2"></i>Account Type
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="form-check form-switch">
+                                        <input asp-for="Input.IsHouseOwner" class="form-check-input" id="IsHouseOwnerCheckbox" style="transform: scale(1.2);" />
+                                        <label asp-for="Input.IsHouseOwner" class="form-check-label fw-bold text-primary fs-5">
+                                            Register as a House Owner
+                                        </label>
+                                    </div>
+                                    <small class="text-muted">Toggle to switch between tenant and house owner registration</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- House Owner Specific Fields -->
+                        <div id="houseOwnerFields" class="mb-4" style="display: none;">
+                            <div class="card border-primary">
+                                <div class="card-header bg-primary text-white">
+                                    <h6 class="mb-0">
+                                        <i class="fas fa-building me-2"></i>House Owner Information
+                                    </h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.CompanyName" class="form-control" placeholder=" " />
+                                        <label asp-for="Input.CompanyName" class="text-muted">
+                                            <i class="fas fa-briefcase me-1"></i>Company Name
+                                        </label>
+                                        <span asp-validation-for="Input.CompanyName" class="text-danger small"></span>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.TaxId" class="form-control" placeholder=" " />
+                                        <label asp-for="Input.TaxId" class="text-muted">
+                                            <i class="fas fa-file-invoice me-1"></i>Tax ID
+                                        </label>
+                                        <span asp-validation-for="Input.TaxId" class="text-danger small"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Tenant Specific Fields -->
+                        <div id="tenantFields" class="mb-4">
+                            <div class="card border-primary">
+                                <div class="card-header bg-primary text-white">
+                                    <h6 class="mb-0">
+                                        <i class="fas fa-user me-2"></i>Tenant Information
+                                    </h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.EmergencyContact" class="form-control" placeholder=" " />
+                                        <label asp-for="Input.EmergencyContact" class="text-muted">
+                                            <i class="fas fa-phone-alt me-1"></i>Emergency Contact
+                                        </label>
+                                        <span asp-validation-for="Input.EmergencyContact" class="text-danger small"></span>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.Occupation" class="form-control" placeholder=" " />
+                                        <label asp-for="Input.Occupation" class="text-muted">
+                                            <i class="fas fa-briefcase me-1"></i>Occupation
+                                        </label>
+                                        <span asp-validation-for="Input.Occupation" class="text-danger small"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Password Fields -->
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-lock me-2"></i>Security Information
+                            </h5>
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder=" " />
+                                        <label asp-for="Input.Password" class="text-muted">
+                                            <i class="fas fa-key me-1"></i>Password
+                                        </label>
+                                        <span asp-validation-for="Input.Password" class="text-danger small"></span>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder=" " />
+                                        <label asp-for="Input.ConfirmPassword" class="text-muted">
+                                            <i class="fas fa-key me-1"></i>Confirm Password
+                                        </label>
+                                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger small"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <button id="registerSubmit" type="submit" class="w-100 btn btn-lg text-white py-3" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);">
+                            <i class="fas fa-user-plus me-2"></i>Create Account
+                        </button>
+
+                        <div class="text-center mt-3">
+                            <p class="text-muted">
+                                Already have an account?
+                                <a asp-page="./Login" class="text-primary text-decoration-none fw-bold">Sign in here</a>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const isHouseOwnerCheckbox = document.getElementById('IsHouseOwnerCheckbox');
+            const houseOwnerFields = document.getElementById('houseOwnerFields');
+            const tenantFields = document.getElementById('tenantFields');
+
+            function toggleFields() {
+                if (isHouseOwnerCheckbox.checked) {
+                    houseOwnerFields.style.display = 'block';
+                    tenantFields.style.display = 'none';
+                    // Clear tenant fields when switching to house owner
+                    document.getElementById('Input_EmergencyContact').value = '';
+                    document.getElementById('Input_Occupation').value = '';
+                } else {
+                    houseOwnerFields.style.display = 'none';
+                    tenantFields.style.display = 'block';
+                    // Clear house owner fields when switching to tenant
+                    document.getElementById('Input_CompanyName').value = '';
+                    document.getElementById('Input_TaxId').value = '';
+                }
+            }
+
+            isHouseOwnerCheckbox.addEventListener('change', toggleFields);
+            toggleFields(); // Initial call to set correct state
+        });
+    </script>
+
+    <style>
+        .card {
+            border: none;
+            border-radius: 15px;
+        }
+
+        .card-header {
+            border-radius: 15px 15px 0 0 !important;
+            border: none;
+        }
+
+        .form-control {
+            border-radius: 10px;
+            border: 1px solid #dee2e6;
+            transition: all 0.3s ease;
+        }
+
+            .form-control:focus {
+                border-color: #0d6efd;
+                box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+            }
+
+        .form-floating > label {
+            color: #6c757d;
+        }
+
+        .btn {
+            border-radius: 10px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+            .btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 5px 15px rgba(13, 110, 253, 0.3);
+            }
+
+        .form-check-input:checked {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+    </style>
+}
